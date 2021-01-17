@@ -1,11 +1,19 @@
-#RUNNING THE SERVER
 
-#EXPRESS GRAPGQL SERVE
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
 npm run dev:server
-
-#JSON SERVER
+```
+### Compiles json server
+```
 npm run json:server
-
-# graphql endpoint
-
-http://localhost:4000/graphiql
+```
+### endpoint
+```
+http://localhost:4000/graphql
+```
