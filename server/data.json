@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "name": "kennedy baraka",
+      "email": "kennedy@gmail.com",
+      "age": 22,
+      "id": "93pG0Jl"
+    },
+    {
+      "name": "shogoka kelvin",
+      "email": "shogoka@gmail.com",
+      "age": 21,
+      "id": "22gzWyY"
+    },
+    {
+      "name": "janet  kijana",
+      "email": "janet@gmail.com",
+      "age": 32,
+      "id": "UYCTVVU"
+    },
+    {
+      "name": "ace mtarajiwa",
+      "email": "ace@maail.com",
+      "age": 99,
+      "id": "d68mGIw"
+    },
+    {
+      "name": "wafula seth",
+      "email": "wafula@gmail.com",
+      "age": 27,
+      "id": "R-t3fJn"
+    }
+  ]
+}
